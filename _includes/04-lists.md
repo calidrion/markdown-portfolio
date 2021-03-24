@@ -1,0 +1,5 @@
+- 1.Semester
+  - Grundlagen
+  - Informatik
+- 2.Semester
+  - Fortgeschritten 
